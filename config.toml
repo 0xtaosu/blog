@@ -20,7 +20,7 @@ mainSections = ["posts"]
 headTitle = "Tao Su"
 [[params.socials]]
 name = "About Me"
-link = ""
+link = "https://www.linkedin.com/in/taosu/"
 [[params.socials]]
 name = "Github"
 link = "https://github.com/taosue"
