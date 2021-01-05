@@ -22,6 +22,9 @@ headTitle = "Tao Su"
 name = "About Me"
 link = "https://www.linkedin.com/in/taosu/"
 [[params.socials]]
+name = "Twitter"
+link = "https://twitter.com/0xTaoSu"
+[[params.socials]]
 name = "Github"
 link = "https://github.com/taosue"
 [[params.socials]]
