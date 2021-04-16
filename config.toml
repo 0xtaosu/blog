@@ -19,9 +19,6 @@ DefaultContentLanguage = "cn"
 mainSections = ["posts"]
 headTitle = "Tao Su"
 [[params.socials]]
-name = "About Me"
-link = "https://www.linkedin.com/in/taosu/"
-[[params.socials]]
 name = "Twitter"
 link = "https://twitter.com/0xTaoSu"
 [[params.socials]]
