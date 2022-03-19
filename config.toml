@@ -23,7 +23,7 @@ name = "Twitter"
 link = "https://twitter.com/0xTaoSu"
 [[params.socials]]
 name = "Github"
-link = "https://github.com/taosue"
+link = "https://github.com/0xTaoSu"
 [[params.socials]]
 name = "RSS"
 link = "/index.xml"
