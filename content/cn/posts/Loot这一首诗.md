@@ -1,7 +1,7 @@
 ---
 title: "Loot这一首诗"
 date: 2021-09-05T17:31:00+08:00
-draft: true
+draft: false
 ---
 
 Loot是一个非常简单的NFT，它只是定义一系列角色，只有weapons、chestArmor等属性，以及其Get方法，在claim之后，用户看到的仅仅是8行字的jpeg，简单地离谱。
