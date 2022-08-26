@@ -1,5 +1,5 @@
 ---
-title: "多链时代下的DApp碎片化"
+title: "多链时代下的DApp碎片化问题"
 date: 2021-06-05T00:31:03+08:00
 draft: false
 ---
