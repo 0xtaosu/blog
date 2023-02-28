@@ -1,6 +1,6 @@
 ---
 title: "Lens花园小记"
-date: 2022-07-27T00:26:40+08:00
+date: 2022-08-09T00:26:40+08:00
 draft: false
 ---
 
@@ -37,5 +37,6 @@ Lens有6个基础模块，分别是个人简介(Profile)、内容(Publication)�
 
 另外，用户还可以通过Reference Module来自定义规则。当用户评论(Comment)或转发(Mirror)了一个内容(Publication)，会调用Reference Modules。也就是说，可以设置一些有趣Reference Module，比如：
 
-1. 转发有奖励
+1. 评论/转发有奖励
+2. 
 
